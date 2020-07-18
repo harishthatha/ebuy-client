@@ -1,0 +1,32 @@
+{
+  "app": {
+    "title": "Easy Buy"
+  },
+  "home": {
+    "welcome": {
+      "title": "Welcome to home page"
+    }
+  },
+  "settings": {
+    "title": "Settings"
+  },
+
+  "notifications": {
+    "title": "Notifications"
+  },
+  "cart": {
+    "title": "Cart"
+  },
+  "chat": {
+    "title": "Chat"
+  },
+  "music": {
+    "title": "Music"
+  },
+  "movies": {
+    "title": "Movies"
+  },
+  "messages": {
+    "title": "Messages"
+  }
+}

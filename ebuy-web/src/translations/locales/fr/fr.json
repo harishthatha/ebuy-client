@@ -1,0 +1,29 @@
+{
+  "app": {
+    "title": "Easy Buy"
+  },
+  "home": {
+    "welcome": {
+      "title": "Page d'accueil avec Wellcome"
+    }
+  },
+  "settings": {
+    "title": "Paramètres"
+  },
+  "notifications": {
+    "title": "Notifications"
+  },
+
+  "cart": {
+    "title": "Chariot"
+  },
+  "music": {
+    "title": "Musique"
+  },
+  "movies": {
+    "title": "Films"
+  },
+  "messages": {
+    "title": "messages"
+  }
+}
