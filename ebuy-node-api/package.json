@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch index.js"
+    "start": "nodemon --watch /src/* index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "http": "0.0.1-security",
     "mongodb": "^3.5.9",
+    "mongoose": "^5.9.25",
     "nodemon": "^2.0.4",
     "socket.io": "^2.3.0"
   }

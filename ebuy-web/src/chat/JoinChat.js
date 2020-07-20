@@ -17,7 +17,7 @@ export default () => {
           borderRadius: "8px",
           paddingTop: "80px",
           paddingBottom: "80px",
-          width: "40%",
+          width: "100%",
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",

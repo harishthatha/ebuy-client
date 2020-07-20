@@ -12,6 +12,7 @@ import Notifications from "../notifications/Notifications";
 import Conversation from "../chat/Conversation";
 import JoinChat from "../chat/JoinChat";
 import Conference from "../conference/Conference";
+import Chat from "../chat/chat";
 
 export default function App() {
   return (
@@ -27,7 +28,7 @@ export default function App() {
             <Route path="/movies" component={Movies} />
             <Route path="/messages" component={Messages} />
             <Route path="/notifications" component={Notifications} />
-            <Route path="/chat" component={JoinChat} />
+            <Route path="/chat" component={Chat} />
             <Route path="/conversation" component={Conversation} />
             <Route path="/conference" component={Conference} />
           </Navbar>
