@@ -11,7 +11,7 @@ export default ({ message: { text }, isFromYou }) => {
           padding: "16px",
           backgroundColor: "white",
           marginRight: "20px",
-          backgroundColor: true ? "#E8E8E8" : "#778899",
+          backgroundColor: true ? "#E8E8E8" : "#4682B4",
           color: "black",
           width: "45%",
           marginLeft: false ? "auto" : "20px",
